@@ -1,1 +1,1 @@
-# proyecto_parcial_2
+Aunque inicialmente subí la tarea en formato .zip y luego la cambié por archivos individuales, los commits en GitHub muestran la fecha exacta en que se subió cada cambio. Así queda constancia de que mi trabajo fue entregado a tiempo, incluso si después actualicé la forma de presentarlo.
